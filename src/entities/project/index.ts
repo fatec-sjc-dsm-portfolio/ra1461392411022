@@ -1,0 +1,5 @@
+export type { Project, ProjectCategory, ProjectHighlight, ProjectImage, SoftSkill, Testimonial } from './model/types'
+export { PROJECT_CATEGORIES } from './model/categories'
+export { projects } from './model/data'
+export { ProjectCard } from './ui/ProjectCard'
+export { ProjectDetails } from './ui/ProjectDetails'
